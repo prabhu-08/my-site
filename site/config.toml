@@ -13,7 +13,7 @@ theme = "hugo-theme-nix"
   HeaderUsername = "prabhu"
   HeaderHostname = "dev"
   Email = "prabhudev.ra@gmail.com"
-  About = "info_about_you"
+  About = "JavaScript, AngularJs, Python Developer"
   ProfilePicture = "https://pbs.twimg.com/profile_images/1371791095/2011-05-27_1_400x400.jpg"
   GoogleAnalytics = "your_google_analytics_id"
 
